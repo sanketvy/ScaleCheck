@@ -1,0 +1,6 @@
+Orange - #fd9634
+Grey - #666461
+Light Blue - #5d94ee, #65d0ec
+Dark Pink - #c50d68
+
+Font - Montsetrrat
